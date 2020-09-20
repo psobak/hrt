@@ -42,3 +42,29 @@ http://195.29.70.67/PLTV/88888888/224/3221226407/03.m3u8
 #EXTINF:-1,RTL
 http://195.29.70.67/PLTV/88888888/224/3221226195/03.m3u8
 
+#EXTINF:-1 group-title="BALKANS" tvg-logo="https://s3.amazonaws.com/ok2logo/hrt1.png",HRT 1 (HR)
+http://66.northerniptv.ca:8000/tommy2/123456/8758
+#EXTINF:-1 group-title="BALKANS" tvg-logo="https://s3.amazonaws.com/ok2logo/hrt2.png",HRT 2 (HR)
+http://66.northerniptv.ca:8000/tommy2/123456/8745
+#EXTINF:-1 group-title="BALKANS" tvg-logo="https://s3.amazonaws.com/ok2logo/hrt3.jpg",HRT 3 (HR)
+http://66.northerniptv.ca:8000/tommy2/123456/8744
+#EXTINF:-1 group-title="BALKANS" tvg-logo="https://s3.amazonaws.com/ok2logo/hrt4.png",HRT 4 (HR)
+http://66.northerniptv.ca:8000/tommy2/123456/8754
+#EXTINF:-1 group-title="BALKANS",HRT 5 (HR)
+http://66.northerniptv.ca:8000/tommy2/123456/8756
+#EXTINF:-1 group-title="BALKANS" tvg-logo="https://s3.amazonaws.com/ok2logo/cmc.png",CMC TV (HR)
+http://66.northerniptv.ca:8000/tommy2/123456/8759
+#EXTINF:-1 group-title="BALKANS" tvg-logo="https://s3.amazonaws.com/ok2logo/rtl.jpg",RTL 1 (HR)
+http://66.northerniptv.ca:8000/tommy2/123456/81384
+#EXTINF:-1 group-title="BALKANS" tvg-logo="https://s3.amazonaws.com/ok2logo/rtl2.png",RTL 2 (HR)
+http://66.northerniptv.ca:8000/tommy2/123456/81385
+#EXTINF:-1 group-title="BALKANS",ARENA SPORTS 1 (HR)
+http://66.northerniptv.ca:8000/tommy2/123456/81386
+#EXTINF:-1 group-title="BALKANS",ARENA SPORTS 2 (HR)
+http://66.northerniptv.ca:8000/tommy2/123456/81387
+#EXTINF:-1 group-title="BALKANS",ARENA SPORTS 3 (HR)
+http://66.northerniptv.ca:8000/tommy2/123456/81388
+#EXTINF:-1 group-title="BALKANS",ARENA SPORTS 4 (HR)
+http://66.northerniptv.ca:8000/tommy2/123456/40958
+#EXTINF:-1 group-title="BALKANS",ARENA SPORTS 5 (HR)
+http://66.northerniptv.ca:8000/tommy2/123456/40957
